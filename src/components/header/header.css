@@ -1,0 +1,36 @@
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+    align-items: center;
+    justify-content: end;
+}
+
+.navbarBackground {
+    background-color: #5F9EA0;
+}
+
+.nav-link {
+    color: #ffffff !important;
+}
+
+
+/* .active {
+    border-bottom: 1px solid #ffffff;
+} */
+
+.signUpBtn {
+    background-color: darkcyan;
+    padding: 4px 15px;
+    border-radius: 5px;
+}
+
+.nav-item a {
+    text-decoration: none;
+}
+
+.navbarStyle {
+    position: fixed;
+    width: 100%;
+    margin-top: 0;
+    z-index: 1;
+}
